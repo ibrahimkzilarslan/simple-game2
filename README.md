@@ -1,2 +1,2 @@
 # simple-game2
- I code tennis game with JS
+  I code tennis game with java script codes
