@@ -1,2 +1,4 @@
-# simple-game2
-  I code tennis game with java script codes
+   #TENNİS GAME
+
+I code tennis game with java script codes.
+
